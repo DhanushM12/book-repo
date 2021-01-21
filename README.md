@@ -1,3 +1,35 @@
+## Project Folder Structure
+
+```
+book-repo
+├─ .eslintcache
+├─ .git
+├─ .gitignore
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  └─ robots.txt
+├─ README.md
+└─ src
+   ├─ App.css
+   ├─ components
+   │  ├─ App.js
+   │  ├─ Booklist.js
+   │  ├─ Cart.js
+   │  ├─ Cartitem.js
+   │  └─ Navbar.js
+   ├─ index.css
+   └─ index.js
+
+```
+
+## React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
